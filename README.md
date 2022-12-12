@@ -13,7 +13,7 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=brenoboaventura321&bg_color=0d111f&color=00e1ff&line=434eea&point=00e1ff&area=true&hide_border=true&radius=7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=brenoboaventura321&bg_color=250A40&color=A6299D&line=434eea&point=D93BCE&area=true&hide_border=true&radius=7)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">
