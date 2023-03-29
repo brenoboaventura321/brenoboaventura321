@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A6299D&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A6299D&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem+Vindo+ao+GitHub+de+Breno+Aguiar.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A6299D&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Breno+Aguiar.;Bem+Vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 
 <div align="center">
